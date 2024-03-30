@@ -7,10 +7,10 @@
 
 | **Mentalidad** | **Definición** |
 |------------|------------|
-| Crecimiento| Capacidad de desarrollarse atraves del esfuerzo y aprendizaje continuo |
+| Crecimiento| Capacidad de desarrollarse a través del esfuerzo y aprendizaje continuo |
 | Fija       | Rasgos innatos y mentalidad y frustración al cambio |
 
 ### Recordatorio
-- Abraza el desafio.
+- Abraza el desafío.
 - Celebra el esfuerzo, no solo con resultados.
 - Se constante en la vida.
