@@ -5,7 +5,7 @@
 
 ## Comparación entre mentalidad fija y mentalidad de crecimiento
 
-| Mentalidad | Definición |
+| **Mentalidad** | **Definición** |
 |------------|------------|
 | Crecimiento| Capacidad de desarrollarse atraves del esfuerzo y aprendizaje continuo |
 | Fija       | Rasgos innatos y mentalidad y frustración al cambio |
