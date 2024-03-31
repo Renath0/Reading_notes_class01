@@ -1,4 +1,3 @@
-# Reading_notes_class01
 
 ## ¿Qué significa tener una Growth Minset (Mentalidad de crecimiento)
 "El concepto de 'mentalidad de crecimiento' ('growth mindset' en inglés) aboga por la capacidad de superar variados desafíos en la vida mediante la perseverancia y un esfuerzo continuado. Por otro lado, su contraparte, la 'mentalidad fija' ('fixed mindset'), sostiene que ciertas cualidades, como el talento, son innatas e inalterables, y determinan de manera definitiva las capacidades del individuo.
